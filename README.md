@@ -1,7 +1,5 @@
 # Exploratory-Sales-Dashboard-for-a-coffee-shop
 
-## Coffee Shop Sales – Exploratory Dashboard
-
 # Executive Summary
 
 This project focuses on analyzing sales data for a fictional coffee shop chain to uncover trends, understand customer purchasing behavior, and identify revenue drivers.
@@ -20,6 +18,7 @@ Using pivot tables, and interactive dashboards, this project transforms raw tran
 
 -> Deliver business insights that can help optimize inventory, staffing, and promotions
 
+
 ## Tools & Technologies
 
 Excel (Power Query, Pivot Tables, Pivot Charts)
@@ -31,41 +30,42 @@ Interactive Dashboard Design
 Data Visualization Techniques
 
 ## Project Workflow
+
 1. Data Cleaning & Preparation
 
--> Handled missing values and inconsistent formatting
-
--> Converted date/time fields into usable formats
-
--> Extracted additional features (hour, weekday, month) for time-based analysis
-
--> Standardized product categories and store attributes
+   -> Handled missing values and inconsistent formatting
+   
+   -> Converted date/time fields into usable formats
+   
+   -> Extracted additional features (hour, weekday, month) for time-based analysis
+   
+   -> Standardized product categories and store attributes
 
 2. Exploratory Data Analysis (EDA)
 
-Performed EDA to identify:
-
--> Top-selling products
-
--> Revenue by store/location
-
--> Sales trends by hour, weekday, and month
-
--> Customer purchase patterns
-
--> Average order value and total revenue metrics
+   Performed EDA to identify:
+   
+   -> Top-selling products
+   
+   -> Revenue by store/location
+   
+   -> Sales trends by hour, weekday, and month
+   
+   -> Customer purchase patterns
+   
+   -> Average order value and total revenue metrics
 
 3. Dashboard Development
 
-Built an interactive dashboard containing:
-
--> Sales Overview KPIs (Total Sales, Transactions, Avg Order Value)
-
--> Hourly Sales Trends
-
--> Daily & Monthly Sales Breakdown
-
--> Store Comparison Chart
+   Built an interactive dashboard containing:
+   
+   -> Sales Overview KPIs (Total Sales, Transactions, Avg Order Value)
+   
+   -> Hourly Sales Trends
+   
+   -> Daily & Monthly Sales Breakdown
+   
+   -> Store Comparison Chart
 
 ## Insights
 1. Product Category Performance
@@ -80,6 +80,7 @@ Built an interactive dashboard containing:
 
 4. Top Product Categories
    Coffee beverages and bakery items drive the largest share of sales.
+   
 
 ## Recommendations
    1. Increase staffing during morning hours to manage peak demand efficiently
@@ -90,7 +91,3 @@ Built an interactive dashboard containing:
 
    4. Expand inventory of top-selling products to avoid stockouts
   
-
-Expand inventory of top-selling products to avoid stockouts
-
-Promote underperforming categories with targeted discounts or bundles
