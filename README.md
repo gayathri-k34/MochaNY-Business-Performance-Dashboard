@@ -19,17 +19,11 @@ Using pivot tables, and interactive dashboards, this project transforms raw tran
 -> Deliver business insights that can help optimize inventory, staffing, and promotions
 
 
-## Tools & Technologies
+## Tools
 
-Excel (Power Query, Pivot Tables, Pivot Charts)
+- Excel (Power Query, Pivot Tables, Pivot Charts)
 
-Tableau
-
-Data Cleaning & Transformation
-
-Interactive Dashboard Design
-
-Data Visualization Techniques
+- Tableau
 
 ## Project Workflow
 
