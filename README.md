@@ -1,8 +1,8 @@
-# MochaNY-Sales-Performance-Dashboard
+# MochaNY-Business-Performance-Dashboard
 
 # Executive Summary
 
-This project focuses on analyzing sales data for a fictional coffee shop, MochaNY who have 3 branches across NYC, to uncover trends, understand customer purchasing behavior, and identify revenue drivers.
+This project focuses on analyzing data for a fictional coffee shop, MochaNY who have 3 branches across NYC, to uncover trends, understand customer purchasing behavior, and identify revenue drivers.
 
 Using pivot tables, and interactive dashboards, this project transforms raw transactional data into actionable insights for better business decision-making.
 
