@@ -19,6 +19,12 @@ Using pivot tables, and interactive dashboards, this project transforms raw tran
 -> Deliver business insights that can help optimize inventory, staffing, and promotions
 
 
+## Files
+- Coffee Shop Sales Data.xlsx -> Original data
+- Coffee Shop Sales Data - cleaned.xlsx -> Data after cleaning
+- MochaNY Sales Performance Dashboard - Tableau dashboard built using the clean version of the data.
+
+
 ## Tools
 
 - Excel (Power Query, Pivot Tables, Pivot Charts)
@@ -87,4 +93,7 @@ Using pivot tables, and interactive dashboards, this project transforms raw tran
    3. Promote evening only offers like evening discounts, bundle offers in Hell's Kitchen and Lower Manhattan branches to           increase evening performance.
 
    5. Expand inventory of top-selling products including barrista espresso, Chai tea and Hot Chocolate to avoid stockouts.
+
+
+
   
