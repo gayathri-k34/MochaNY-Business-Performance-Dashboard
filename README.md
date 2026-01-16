@@ -22,7 +22,7 @@ Using pivot tables, and interactive dashboards, this project transforms raw tran
 ## Files
 - Coffee Shop Sales Data.xlsx -> Original data
 - Coffee Shop Sales Data - cleaned.xlsx -> Data after cleaning
-- MochaNY Sales Performance Dashboard - Tableau dashboard built using the clean version of the data.
+- MochaNY Business Performance Dashboard - Tableau dashboard built using the clean version of the data.
 
 
 ## Tools
